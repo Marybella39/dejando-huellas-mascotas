@@ -1,3 +1,5 @@
+<div style="text-align: justify;">
+
 # Misión  
 Brindar productos innovadores y de alta calidad para el bienestar y disfrute de las mascotas, creando accesorios prácticos, cómodos y con estilo, que fortalezcan el vínculo entre los dueños y sus animales, mientras fomentamos una cultura de cuidado y respeto por los seres vivos.  
 
@@ -13,3 +15,6 @@ Dueños de mascotas (perros, gatos y otros pequeños animales), que buscan produ
 Encuentra **collares, correas, camas y más**, elaborados con materiales resistentes y diseños exclusivos.  
 
 ¡Dale a tu mascota el cuidado y estilo que merece! 🐾  
+
+</div>
+
