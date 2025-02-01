@@ -12,7 +12,7 @@ Dueños de mascotas (perros, gatos y otros pequeños animales), que buscan produ
 
 
  
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/1303b10d7cba56edb67c00ff98626dc944b63515/images.jfif" />
+<img src="[https://github.com/Marybella39/dejando-huellas-mascotas/blob/1303b10d7cba56edb67c00ff98626dc944b63515/images.jfif](https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/refs/heads/main/Tienda.webp)" />
 
 ## Dejando Huellas Mascotas  
 **"Dejando Huellas Mascotas"** ofrece
