@@ -120,7 +120,7 @@ Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. C
 
 ¡Únete a nuestra comunidad y mantente al tanto de novedades, ofertas y consejos para tu mascota!
 
-[Facebook](#) | [Instagram](#) | [TikTok](#) | [WhatsApp](#)
+[Facebook](https://www.facebook.com/share/1B7fLw4Evk/) | [Instagram](https://www.instagram.com/dejandohuellas08?igsh=MWQwcGN3ZWRuYXhhYw==) | [TikTok](https://www.tiktok.com/@dejandohuellas300?_t=ZS-8tYue3P2HFE&_r=1) | 
 
 ---
 
