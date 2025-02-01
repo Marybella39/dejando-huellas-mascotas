@@ -47,7 +47,7 @@ Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estil
 <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/4fc7eb716a2187f2a5b07dac001e1d6cab0a0ec3/Gato%20pa%C3%B1oleta2.jpg" width="200" height="200"/>
 
 
-
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/0690351040319eba70cafdf50b2c7e7f2790a498/perropa%C3%B1oleta2.jpg" width="200" height="200"/>
 
 **Beneficios:**
 - Material transpirable y suave
