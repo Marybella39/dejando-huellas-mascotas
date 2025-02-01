@@ -4,6 +4,12 @@
 
 En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.
 
+
+
+https://github.com/Marybella39/dejando-huellas-mascotas/blob/183857356b0d88c47c2584c2e5c71271f651300d/Foto%20inicial%20de%20tienda.png
+
+
+
 ## Nuestro Compromiso
 
 ### Misión
