@@ -86,7 +86,7 @@ Una excelente alternativa al collar isabelino tradicional, nuestras donas postop
 
 
 <p align="center">
-  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/dad28a43d8afe163a952603c32a2c8056bc1ab7b/dona1.png"/>
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png"/>
 </p>
 
 **Beneficios:**
