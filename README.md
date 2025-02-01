@@ -130,11 +130,6 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
 ## ¡Haz tu pedido ahora!
 
-Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda. 
-
-[Botón: "Comprar Ahora"]
-
-
 Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda.
 
 <p align="center">
@@ -166,7 +161,6 @@ También te invitamos a conocer nuestro **[Blog con tips de cuidado para mascota
 
 
  
-<img src="[https://github.com/Marybella39/dejando-huellas-mascotas/blob/1303b10d7cba56edb67c00ff98626dc944b63515/images.jfif](https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/refs/heads/main/Tienda.webp)" />
 
 ## Dejando Huellas Mascotas  
 
