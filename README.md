@@ -1,3 +1,14 @@
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/192e36a36f37147595eb3f4eb0ccdcaf6219b5b7/Header.png"/>
+
+
+
+
+
+
+
+
+
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
 <h1 style="color: #ce6aa9; font-family: 'Poppins', sans-serif;">Dejando Huellas</h1>
