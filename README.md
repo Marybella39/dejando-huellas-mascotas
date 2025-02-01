@@ -1,13 +1,68 @@
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
-# Misión  
-Brindar productos innovadores y de alta calidad para el bienestar y disfrute de las mascotas, creando accesorios prácticos, cómodos y con estilo, que fortalezcan el vínculo entre los dueños y sus animales, mientras fomentamos una cultura de cuidado y respeto por los seres vivos.  
+# Bienvenido a Dejando Huellas
 
-# Visión  
-Ser la marca líder en el mercado de accesorios para mascotas, reconocida por su diseño único, funcionalidad y compromiso con el bienestar animal. Expandir nuestra presencia a nivel nacional e internacional, y contribuir a la creación de productos que mejoren la calidad de vida de las mascotas y sus dueños.  
+En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.
 
-# Público Objetivo  
-Dueños de mascotas (perros, gatos y otros pequeños animales), que buscan productos funcionales y de calidad para mejorar la comodidad y el bienestar de sus animales. Este público incluye tanto a familias como a personas solteras, de diversas edades y estratos socioeconómicos, especialmente aquellos que valoran la innovación, el diseño y la calidad de los productos que adquieren para sus mascotas.  
+## Nuestro Compromiso
+
+### Misión
+En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta calidad que garanticen la comodidad, seguridad y felicidad de las mascotas, fortaleciendo el vínculo especial entre ellas y sus dueños.
+
+### Visión
+Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.
+
+### Slogan
+**"Dejando huellas de amor y bienestar"**
+
+## Nuestros Productos
+
+### 1. Pañuletas para Mascotas
+
+Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda. 
+
+**Beneficios:**
+- Material transpirable y suave
+- Diseños modernos y variados
+- Fáciles de lavar y reutilizables
+
+**Material:**
+- Algodón 100% hipoalergénico
+- Costuras reforzadas para mayor durabilidad
+
+### 2. Donas Postoperatorias
+
+Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.
+
+**Beneficios:**
+- Evitan que tu mascota se lama las heridas sin restringir su visión
+- Más cómodas que los conos de plástico
+- Ajustables y fáciles de colocar
+
+**Material:**
+- Tela resistente y suave al tacto
+- Relleno de espuma hipoalergénica
+
+### 3. Chalecos para el Frío
+
+Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.
+
+**Beneficios:**
+- Diseños adaptados a la temporada
+- Aislante térmico sin limitar el movimiento
+- Fácil de poner y quitar con cierres seguros
+
+**Material:**
+- Tela impermeable y forro polar para invierno
+- Tejidos frescos y ligeros para otoño/primavera
+
+## ¡Haz tu pedido ahora!
+
+Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda. 
+
+[Botón: "Comprar Ahora"]
+
+
 
 
 
