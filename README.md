@@ -1,6 +1,6 @@
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
-<h1 style="color: #FF5733; font-family: 'Poppins', sans-serif;">Dejando Huellas</h1>
+<h1 style="color: #ce6aa9; font-family: 'Poppins', sans-serif;">Dejando Huellas</h1>
 
 En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.
 
@@ -66,6 +66,15 @@ Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estil
 ### 2. Donas Postoperatorias
 
 Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/08bc02300836ef9a36f3c5214da14e089442a8ca/Perrodona1.jpg" width="200" height="200"/>
+
+
+<img src="" width="200" height="200"/>
+
+<img src="" width="200" height="200"/>
+
+<img src="" width="200" height="200"/>
 
 **Beneficios:**
 - Evitan que tu mascota se lama las heridas sin restringir su visión
