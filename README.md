@@ -134,6 +134,16 @@ Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. C
 
 [Botón: "Comprar Ahora"]
 
+
+Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda.
+
+<p align="center">
+  <a href="https://tu-enlace-de-compra.com" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#ff6600; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
+      Comprar Ahora
+    </button>
+  </a>
+</p>
 ---
 
 ## Síguenos en Redes Sociales
