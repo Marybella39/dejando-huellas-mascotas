@@ -10,9 +10,10 @@ Ser la marca líder en el mercado de accesorios para mascotas, reconocida por su
 Dueños de mascotas (perros, gatos y otros pequeños animales), que buscan productos funcionales y de calidad para mejorar la comodidad y el bienestar de sus animales. Este público incluye tanto a familias como a personas solteras, de diversas edades y estratos socioeconómicos, especialmente aquellos que valoran la innovación, el diseño y la calidad de los productos que adquieren para sus mascotas.  
 
 
-Perro-flotando-en-espacio-4-resultados.jpg
-<img src= "Perro-flotando-en-espacio-4-resultados.jpg"/>
 
+<img src= "Perro-flotando-en-espacio-4-resultados.jpg"/>
+<img src="https://github.com/profegliptest/deepseek-new/blob/d35c2d8c52957c1f36d9e6be02874b587cac9ef3/benchmark.png" />
+ 
 
 
 ## Dejando Huellas Mascotas  
