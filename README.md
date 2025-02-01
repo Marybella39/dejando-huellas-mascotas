@@ -48,7 +48,7 @@ Una excelente alternativa al collar isabelino tradicional, nuestras donas postop
 - Tela resistente y suave al tacto
 - Relleno de espuma hipoalergénica
 
-### 3. Chalecos para el Frío
+### 3. Chalecos para el Frío o calor
 
 Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.
 
@@ -57,7 +57,8 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
 <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg " width="200" height="200"/>
 
-<img src=" https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato2.jpg "  width="200" height="200"/>
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" width="200" height="200"/>
 
 
 **Beneficios:**
