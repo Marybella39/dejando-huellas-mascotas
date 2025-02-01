@@ -39,6 +39,12 @@ Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullec
 
 Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda. 
 
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/8d8cf4764a5ddd00ad23a1071712d7bf92e2f6cb/Perropa%C3%B1oleta.jpg" />
+
+
+
+
 **Beneficios:**
 - Material transpirable y suave
 - Diseños modernos y variados
