@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dejando Huellas Mascotas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    h1, h2, h3 {
+      color: #ce6aa9;
+      text-align: center;
+    }
+    p {
+      text-align: justify;
+    }
+    button {
+      background-color: #ff6600;
+      color: white;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .product-images img {
+      width: 200px;
+      height: 200px;
+      margin: 5px;
+    }
+    .product-section {
+      background-color: #d0e8ff;
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .product-images {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/387dbdd9bc8fc014867fc6717473be86c9373261/Header2.png" width="100%" height="auto"/>
+</p>
+
+<div class="product-section">
+  <h1>Dejando Huellas</h1>
+  <p>En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.</p>
+  
+  <p align="center">
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/802b0e5ed75b954206bdd538a90bc5dd5dbd781e/Foto%20inicial%20de%20tienda.png" width="100%" height="auto"/>
+  </p>
+
+  <h2>Nuestro Compromiso</h2>
+
+  <h3>Misión</h3>
+  <p>En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta calidad que garanticen la comodidad, seguridad y felicidad de las mascotas, fortaleciendo el vínculo especial entre ellas y sus dueños.</p>
+
+  <h3>Visión</h3>
+  <p>Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.</p>
+
+  <h3>Como nos definimos</h3>
+  <p><strong>"Dejando huellas de amor y bienestar"</strong></p>
+
+  <h2>Nuestra promesa de valor: Cuidamos lo que más quieres</h2>
+  <p>Imagina por un momento el primer día que llegaste a casa con tu mascota. Ese pequeño ser lleno de energía, curiosidad y amor incondicional. Desde ese momento, te diste cuenta de que tu vida ya no sería la misma. Cada mirada y cada gesto de cariño de tu mascota te hace sentir que no solo eres su dueño, sino su protector.</p>
+
+  <p>En nuestra tienda, sabemos lo importante que es esa conexión. Por eso, trabajamos con dedicación para ofrecerte productos que no solo cumplen con las necesidades de tu mascota, sino que también fomentan el bienestar y la felicidad de ambos. Cada collar, juguete, y accesorio que encuentras en nuestra tienda ha sido seleccionado cuidadosamente para que tu mascota reciba lo mejor, porque sabemos que ellos no son solo animales: son parte de tu familia.</p>
+
+  <p>Al elegirnos, no solo estás comprando un producto. Estás eligiendo un compromiso con la salud y la felicidad de tu compañero. Cada vez que le pongas algo de nuestra tienda, sabrás que has tomado la decisión correcta para su bienestar. Te prometemos que con nosotros, tu mascota no solo será bien cuidada, sino que también disfrutará de lo mejor en calidad, confort y diversión.</p>
+
+  <p>Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullece ser parte de tu historia. Porque cuando tu mascota es feliz, tú también lo eres.</p>
+
+  <h2>Nuestros Productos</h2>
+
+  <h3>1. Pañuletas para Mascotas</h3>
+  <p>Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda.</p>
+
+  <div class="product-images">
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/feb51feeef0007a07da5925b08e818a0cd9c6a90/Gato%20pa%C3%B1oleta1.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/4fc7eb716a2187f2a5b07dac001e1d6cab0a0ec3/Gato%20pa%C3%B1oleta2.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/0690351040319eba70cafdf50b2c7e7f2790a498/perropa%C3%B1oleta2.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/94f9c10c16fe38dbba6cb259fc60516de8c061ec/Perropa%C3%B1oleta.jpg" />
+  </div>
+
+  <h4>Beneficios:</h4>
+  <ul>
+    <li>Material transpirable y suave</li>
+    <li>Diseños modernos y variados</li>
+    <li>Fáciles de lavar y reutilizables</li>
+  </ul>
+
+  <h4>Material:</h4>
+  <ul>
+    <li>Algodón 100% hipoalergénico</li>
+    <li>Costuras reforzadas para mayor durabilidad</li>
+  </ul>
+
+  <h3>2. Donas Postoperatorias</h3>
+  <p>Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.</p>
+
+  <p align="center">
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png" width="400"/>
+  </p>
+
+  <h4>Beneficios:</h4>
+  <ul>
+    <li>Evitan que tu mascota se lama las heridas sin restringir su visión</li>
+    <li>Más cómodas que los conos de plástico</li>
+    <li>Ajustables y fáciles de colocar</li>
+  </ul>
+
+  <h4>Material:</h4>
+  <ul>
+    <li>Tela resistente y suave al tacto</li>
+    <li>Relleno de espuma hipoalergénica</li>
+  </ul>
+
+  <h3>3. Chalecos para el Frío o Calor</h3>
+  <p>Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.</p>
+
+  <div class="product-images">
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" />
+    <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/93268a10b64bd6dd71ef8452b3f59d06f0bb18c6/perro%20chaleco%202.jpg" />
+  </div>
+
+  <h4>Beneficios:</h4>
+  <ul>
+    <li>Diseños adaptados a la temporada</li>
+    <li>Aislante térmico sin limitar el movimiento</li>
+    <li>Fácil de poner y quitar con cierres seguros</li>
+  </ul>
+
+  <h4>Material:</h4>
+  <ul>
+    <li>Tela impermeable y forro polar para invierno</li>
+    <li>Tejidos frescos y ligeros para otoño/primavera</li>
+  </ul>
+
+  <h2>¡Haz tu pedido ahora!</h2>
+  <p>Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda.</p>
+
+  <p align="center">
+    <a href="https://tu-enlace-de-compra.com" target="_blank" style="text-decoration:none;">
+      <button>Comprar Ahora</button>
+    </a>
+  </p>
+  
+  <hr />
+
+  <h2>Síguenos en Redes Sociales</h2>
+  <p>¡Únete a nuestra comunidad y mantente al tanto de novedades, ofertas y consejos para tu mascota!</p>
+  <ul>
+    <li><a href="https://www.facebook.com/share/1B7fLw4Evk/">Facebook</a></li>
+    <li><a href="https://www.instagram.com/dejandohuellas08?igsh=MWQwcGN3ZWRuYXhhYw==">Instagram</a></li>
+    <li><a href="https://www.tiktok.com/@dejandohuellas300?_t=ZS-8tYue3P2HFE&_r=1">TikTok</a></li>
+  </ul>
+
+  <h2>Suscríbete a Nuestro Newsletter</h2>
+  <p>Recibe información exclusiva, ofertas especiales y consejos para el cuidado de tu mascota directamente en tu correo electrónico.</p>
+  
+  <p>Ingresa tu email y sé parte de nuestra comunidad:</p>
+  <p>[Campo para ingresar correo] [Botón: "Suscribirse"]</p>
+
+  <p>También te invitamos a conocer nuestro <a href="#">Blog con tips de cuidado para mascotas</a> donde compartimos información útil y recomendaciones para el bienestar de tu mejor amigo.</p>
+</div>
+
+</body>
+</html>
