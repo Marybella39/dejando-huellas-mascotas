@@ -69,7 +69,9 @@ Una excelente alternativa al collar isabelino tradicional, nuestras donas postop
 
 
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/572e154c6ef47216656bb6b8df6f54f889cf3b21/Donas%20en%20tama%C3%B1os.png"/>
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/572e154c6ef47216656bb6b8df6f54f889cf3b21/Donas%20en%20tama%C3%B1os.png"/>
+</p>
 
 **Beneficios:**
 - Evitan que tu mascota se lama las heridas sin restringir su visión
