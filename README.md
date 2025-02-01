@@ -19,7 +19,7 @@ Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad
 
 ### 1. Pañuletas para Mascotas
 
-Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda.
+Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda. 
 
 **Beneficios:**
 - Material transpirable y suave
@@ -58,9 +58,29 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
 ## ¡Haz tu pedido ahora!
 
-Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda.
+Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda. 
 
 [Botón: "Comprar Ahora"]
+
+---
+
+## Síguenos en Redes Sociales
+
+¡Únete a nuestra comunidad y mantente al tanto de novedades, ofertas y consejos para tu mascota!
+
+[Facebook](#) | [Instagram](#) | [TikTok](#) | [WhatsApp](#)
+
+---
+
+## Suscríbete a Nuestro Newsletter
+
+Recibe información exclusiva, ofertas especiales y consejos para el cuidado de tu mascota directamente en tu correo electrónico.
+
+Ingresa tu email y sé parte de nuestra comunidad:
+
+[Campo para ingresar correo] [Botón: "Suscribirse"]
+
+También te invitamos a conocer nuestro **[Blog con tips de cuidado para mascotas](#)** donde compartimos información útil y recomendaciones para el bienestar de tu mejor amigo.
 
 
  
