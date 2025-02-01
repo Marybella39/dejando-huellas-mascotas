@@ -1,6 +1,6 @@
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
-<h1 style="color: #FF5733; font-family: 'Poppins', sans-serif;">Bienvenido a Dejando Huellas</h1>
+<h1 style="color: #FF5733; font-family: 'Poppins', sans-serif;">a Dejando Huellas</h1>
 
 En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.
 
