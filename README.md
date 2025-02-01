@@ -52,6 +52,13 @@ Una excelente alternativa al collar isabelino tradicional, nuestras donas postop
 
 Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.
 
+
+                    
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg  " />             <img src=" https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato2.jpg " />
+
+
+
 **Beneficios:**
 - Diseños adaptados a la temporada
 - Aislante térmico sin limitar el movimiento
