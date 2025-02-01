@@ -18,7 +18,20 @@ En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta
 Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.
 
 ### Como nos definimos
+
 **"Dejando huellas de amor y bienestar"**
+
+# Nuestra promesa de valor: Cuidamos lo que más quieres
+
+Imagina por un momento el primer día que llegaste a casa con tu mascota. Ese pequeño ser lleno de energía, curiosidad y amor incondicional. Desde ese momento, te diste cuenta de que tu vida ya no sería la misma. Cada mirada y cada gesto de cariño de tu mascota te hace sentir que no solo eres su dueño, sino su protector.
+
+En nuestra tienda, sabemos lo importante que es esa conexión. Por eso, trabajamos con dedicación para ofrecerte productos que no solo cumplen con las necesidades de tu mascota, sino que también fomentan el bienestar y la felicidad de ambos. Cada collar, juguete, y accesorio que encuentras en nuestra tienda ha sido seleccionado cuidadosamente para que tu mascota reciba lo mejor, porque sabemos que ellos no son solo animales: son parte de tu familia.
+
+Al elegirnos, no solo estás comprando un producto. Estás eligiendo un compromiso con la salud y la felicidad de tu compañero. Cada vez que le pongas algo de nuestra tienda, sabrás que has tomado la decisión correcta para su bienestar. Te prometemos que con nosotros, tu mascota no solo será bien cuidada, sino que también disfrutará de lo mejor en calidad, confort y diversión.
+
+Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullece ser parte de tu historia. Porque cuando tu mascota es feliz, tú también lo eres.
+
+
 
 ## Nuestros Productos
 
