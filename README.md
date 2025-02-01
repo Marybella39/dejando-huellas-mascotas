@@ -11,10 +11,8 @@ Dueños de mascotas (perros, gatos y otros pequeños animales), que buscan produ
 
 
 
-<img src= "Perro-flotando-en-espacio-4-resultados.jpg"/>
-<img src="https://github.com/profegliptest/deepseek-new/blob/d35c2d8c52957c1f36d9e6be02874b587cac9ef3/benchmark.png" />
  
-
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/1303b10d7cba56edb67c00ff98626dc944b63515/images.jfif" />
 
 ## Dejando Huellas Mascotas  
 **"Dejando Huellas Mascotas"** ofrece
