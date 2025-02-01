@@ -101,20 +101,22 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
                     
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg " width="200" height="200"/>
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/feb51feeef0007a07da5925b08e818a0cd9c6a90/Gato%20pa%C3%B1oleta1.jpg" width="200" height="200"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/4fc7eb716a2187f2a5b07dac001e1d6cab0a0ec3/Gato%20pa%C3%B1oleta2.jpg" width="200" height="200"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/0690351040319eba70cafdf50b2c7e7f2790a498/perropa%C3%B1oleta2.jpg" width="200" height="200"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/94f9c10c16fe38dbba6cb259fc60516de8c061ec/Perropa%C3%B1oleta.jpg" width="200" height="200"/>
+</p>
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" width="200" height="200"/>
-
-
-
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" width="200" height="200"/>
-
-
-
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/93268a10b64bd6dd71ef8452b3f59d06f0bb18c6/perro%20chaleco%202.jpg" width="200" height="200"/>
 
 
 **Beneficios:**
