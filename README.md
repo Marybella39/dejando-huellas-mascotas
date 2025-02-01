@@ -17,7 +17,7 @@ En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta
 ### Visión
 Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.
 
-### Slogan
+### Como nos definimos
 **"Dejando huellas de amor y bienestar"**
 
 ## Nuestros Productos
@@ -58,8 +58,13 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg " width="200" height="200"/>
 
 
+
+
 <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" width="200" height="200"/>
 
+
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" width="200" height="200"/>
 
 **Beneficios:**
 - Diseños adaptados a la temporada
