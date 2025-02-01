@@ -66,6 +66,11 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
 <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" width="200" height="200"/>
 
+
+
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/93268a10b64bd6dd71ef8452b3f59d06f0bb18c6/perro%20chaleco%202.jpg" width="200" height="200"/>
+
+
 **Beneficios:**
 - Diseños adaptados a la temporada
 - Aislante térmico sin limitar el movimiento
