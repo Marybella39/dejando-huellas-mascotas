@@ -1,5 +1,8 @@
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/387dbdd9bc8fc014867fc6717473be86c9373261/Header2.png"/>
+<p align="center">
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/387dbdd9bc8fc014867fc6717473be86c9373261/Header2.png" width="100%" height="auto"/>
+</p>
+
 
 
 
