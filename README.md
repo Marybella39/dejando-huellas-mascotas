@@ -55,7 +55,7 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
                     
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg  " /> <img src="plomeria.png" alt="Plomero" width="200" height="200">           
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg  "<img src="plomeria.png" alt="Plomero" width="200" height="200">   />          
 
 <img src=" https://github.com/Marybella39/dejando-huellas-mascotas/blob/2b9b7bc723b83b54deca21ed994d285883693833/Gato2.jpg " /><img src="plomeria.png" alt="Plomero" width="200" height="200">
 
