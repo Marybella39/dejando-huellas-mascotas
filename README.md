@@ -1,6 +1,6 @@
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
-<h1 style="color: #FF5733; font-family: 'Poppins', sans-serif;">a Dejando Huellas</h1>
+<h1 style="color: #FF5733; font-family: 'Poppins', sans-serif;">Dejando Huellas</h1>
 
 En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.
 
@@ -40,9 +40,8 @@ Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullec
 Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda. 
 
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/8d8cf4764a5ddd00ad23a1071712d7bf92e2f6cb/Perropa%C3%B1oleta.jpg" />
 
-
+<img src=" https://github.com/Marybella39/dejando-huellas-mascotas/blob/03873728d168e3797c759d8cde550ccb144da0a6/Perropa%C3%B1oleta.jpg" width="200" height="200"/>
 
 
 **Beneficios:**
