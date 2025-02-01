@@ -1,127 +1,224 @@
 <!DOCTYPE html>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/387dbdd9bc8fc014867fc6717473be86c9373261/Header2.png" width="100%" height="auto"/>
-</p>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Dejando Huellas - Accesorios para Mascotas</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
 
-<div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #ce6aa9; font-family: 'Poppins', sans-serif; font-size: 48px; text-transform: uppercase; font-weight: bold; text-align: center;">
-    Dejando Huellas
-  </h1>
+    h1, h2, h3, p {
+      margin: 10px;
+    }
 
-  <p>En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.</p>
+    h1 {
+      font-size: 2.5rem;
+      text-align: center;
+      color: #ce6aa9;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/802b0e5ed75b954206bdd538a90bc5dd5dbd781e/Foto%20inicial%20de%20tienda.png" width="100%" height="auto"/>
-  </p>
+    h2, h3 {
+      color: #333;
+    }
 
-  <h2>Nuestro Compromiso</h2>
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+      text-align: justify;
+    }
 
-  <h3>Misión</h3>
-  <p>En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta calidad que garanticen la comodidad, seguridad y felicidad de las mascotas, fortaleciendo el vínculo especial entre ellas y sus dueños.</p>
+    ul {
+      margin-left: 20px;
+    }
 
-  <h3>Visión</h3>
-  <p>Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.</p>
+    ul li {
+      font-size: 1rem;
+    }
 
-  <h3>Como nos definimos</h3>
-  <p><strong>"Dejando huellas de amor y bienestar"</strong></p>
+    img {
+      max-width: 100%;
+      height: auto;
+    }
 
-  <h2>Nuestra promesa de valor: Cuidamos lo que más quieres</h2>
-  <p>Imagina por un momento el primer día que llegaste a casa con tu mascota. Ese pequeño ser lleno de energía, curiosidad y amor incondicional. Desde ese momento, te diste cuenta de que tu vida ya no sería la misma. Cada mirada y cada gesto de cariño de tu mascota te hace sentir que no solo eres su dueño, sino su protector.</p>
-  <p>En nuestra tienda, sabemos lo importante que es esa conexión. Por eso, trabajamos con dedicación para ofrecerte productos que no solo cumplen con las necesidades de tu mascota, sino que también fomentan el bienestar y la felicidad de ambos. Cada collar, juguete, y accesorio que encuentras en nuestra tienda ha sido seleccionado cuidadosamente para que tu mascota reciba lo mejor, porque sabemos que ellos no son solo animales: son parte de tu familia.</p>
-  <p>Al elegirnos, no solo estás comprando un producto. Estás eligiendo un compromiso con la salud y la felicidad de tu compañero. Cada vez que le pongas algo de nuestra tienda, sabrás que has tomado la decisión correcta para su bienestar. Te prometemos que con nosotros, tu mascota no solo será bien cuidada, sino que también disfrutará de lo mejor en calidad, confort y diversión.</p>
-  <p>Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullece ser parte de tu historia. Porque cuando tu mascota es feliz, tú también lo eres.</p>
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-  <h2>Nuestros Productos</h2>
+    .product-images img {
+      width: 100%;
+      max-width: 250px;
+      margin: 5px;
+    }
 
-  <h3>1. Pañuletas para Mascotas</h3>
-  <p>Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda.</p>
+    .btn {
+      background-color: #ce6aa9;
+      color: white;
+      padding: 10px 20px;
+      font-size: 1rem;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      text-align: center;
+    }
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/feb51feeef0007a07da5925b08e818a0cd9c6a90/Gato%20pa%C3%B1oleta1.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/4fc7eb716a2187f2a5b07dac001e1d6cab0a0ec3/Gato%20pa%C3%B1oleta2.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/0690351040319eba70cafdf50b2c7e7f2790a498/perropa%C3%B1oleta2.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/94f9c10c16fe38dbba6cb259fc60516de8c061ec/Perropa%C3%B1oleta.jpg" width="200" height="200"/>
-  </p>
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #333;
+    }
 
-  <p><strong>Beneficios:</strong></p>
-  <ul>
-    <li>Material transpirable y suave</li>
-    <li>Diseños modernos y variados</li>
-    <li>Fáciles de lavar y reutilizables</li>
-  </ul>
+    .social-links a:hover {
+      color: #ce6aa9;
+    }
 
-  <p><strong>Material:</strong></p>
-  <ul>
-    <li>Algodón 100% hipoalergénico</li>
-    <li>Costuras reforzadas para mayor durabilidad</li>
-  </ul>
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 2rem;
+      }
 
-  <h3>2. Donas Postoperatorias</h3>
-  <p>Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.</p>
+      p {
+        font-size: 0.9rem;
+      }
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png" width="400"/>
-  </p>
+      .product-images img {
+        width: 100%;
+        max-width: 100%;
+      }
+    }
 
-  <p><strong>Beneficios:</strong></p>
-  <ul>
-    <li>Evitan que tu mascota se lama las heridas sin restringir su visión</li>
-    <li>Más cómodas que los conos de plástico</li>
-    <li>Ajustables y fáciles de colocar</li>
-  </ul>
+    @media (max-width: 480px) {
+      .container {
+        padding: 10px;
+      }
 
-  <p><strong>Material:</strong></p>
-  <ul>
-    <li>Tela resistente y suave al tacto</li>
-    <li>Relleno de espuma hipoalergénica</li>
-  </ul>
+      .btn {
+        width: 100%;
+      }
+    }
 
-  <h3>3. Chalecos para el Frío o Calor</h3>
-  <p>Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.</p>
+  </style>
+</head>
+<body>
+  <div class="container">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/387dbdd9bc8fc014867fc6717473be86c9373261/Header2.png" alt="Dejando Huellas Header" width="100%" height="auto"/>
+    </p>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" width="200" height="200"/>
-    <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/93268a10b64bd6dd71ef8452b3f59d06f0bb18c6/perro%20chaleco%202.jpg" width="200" height="200"/>
+    <div style="background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
+      <h1>Dejando Huellas</h1>
+
+      <p>En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad para el bienestar y comodidad de tus mascotas. Descubre nuestros productos estrella diseñados con los mejores materiales y estándares de calidad.</p>
+
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/802b0e5ed75b954206bdd538a90bc5dd5dbd781e/Foto%20inicial%20de%20tienda.png" alt="Tienda Dejando Huellas" width="100%" height="auto"/>
+      </p>
+
+      <h2>Nuestro Compromiso</h2>
+
+      <h3>Misión</h3>
+      <p>En Dejando Huellas, nos dedicamos a proporcionar productos innovadores y de alta calidad que garanticen la comodidad, seguridad y felicidad de las mascotas, fortaleciendo el vínculo especial entre ellas y sus dueños.</p>
+
+      <h3>Visión</h3>
+      <p>Ser la tienda líder en accesorios para mascotas, reconocida por nuestra calidad, diseño y compromiso con el bienestar animal, dejando una huella positiva en cada familia que confía en nosotros.</p>
+
+      <h3>Como nos definimos</h3>
+      <p><strong>"Dejando huellas de amor y bienestar"</strong></p>
+
+      <h2>Nuestra promesa de valor: Cuidamos lo que más quieres</h2>
+      <p>Imagina por un momento el primer día que llegaste a casa con tu mascota. Ese pequeño ser lleno de energía, curiosidad y amor incondicional. Desde ese momento, te diste cuenta de que tu vida ya no sería la misma. Cada mirada y cada gesto de cariño de tu mascota te hace sentir que no solo eres su dueño, sino su protector.</p>
+      <p>En nuestra tienda, sabemos lo importante que es esa conexión. Por eso, trabajamos con dedicación para ofrecerte productos que no solo cumplen con las necesidades de tu mascota, sino que también fomentan el bienestar y la felicidad de ambos. Cada collar, juguete, y accesorio que encuentras en nuestra tienda ha sido seleccionado cuidadosamente para que tu mascota reciba lo mejor, porque sabemos que ellos no son solo animales: son parte de tu familia.</p>
+      <p>Al elegirnos, no solo estás comprando un producto. Estás eligiendo un compromiso con la salud y la felicidad de tu compañero. Cada vez que le pongas algo de nuestra tienda, sabrás que has tomado la decisión correcta para su bienestar. Te prometemos que con nosotros, tu mascota no solo será bien cuidada, sino que también disfrutará de lo mejor en calidad, confort y diversión.</p>
+      <p>Nosotros entendemos lo que significa ser dueño de una mascota, y nos enorgullece ser parte de tu historia. Porque cuando tu mascota es feliz, tú también lo eres.</p>
+
+      <h2>Nuestros Productos</h2>
+
+      <h3>1. Pañuletas para Mascotas</h3>
+      <p>Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estilo a tu mascota mientras la mantienen cómoda.</p>
+
+      <div class="product-images" align="center">
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/feb51feeef0007a07da5925b08e818a0cd9c6a90/Gato%20pa%C3%B1oleta1.jpg" alt="Pañuleta Gato 1" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/4fc7eb716a2187f2a5b07dac001e1d6cab0a0ec3/Gato%20pa%C3%B1oleta2.jpg" alt="Pañuleta Gato 2" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/0690351040319eba70cafdf50b2c7e7f2790a498/perropa%C3%B1oleta2.jpg" alt="Pañuleta Perro 2" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/94f9c10c16fe38dbba6cb259fc60516de8c061ec/Perropa%C3%B1oleta.jpg" alt="Pañuleta Perro" />
+      </div>
+
+      <p><strong>Beneficios:</strong></p>
+      <ul>
+        <li>Material transpirable y suave</li>
+        <li>Diseños modernos y variados</li>
+        <li>Fáciles de lavar y reutilizables</li>
+      </ul>
+
+      <p><strong>Material:</strong></p>
+      <ul>
+        <li>Algodón 100% hipoalergénico</li>
+        <li>Costuras reforzadas para mayor durabilidad</li>
+      </ul>
+
+      <h3>2. Donas Postoperatorias</h3>
+      <p>Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.</p>
+
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png" alt="Dona Postoperatoria" width="400"/>
+      </p>
+
+      <p><strong>Beneficios:</strong></p>
+      <ul>
+        <li>Evitan que tu mascota se lama las heridas sin restringir su visión</li>
+        <li>Más cómodas que los conos de plástico</li>
+        <li>Ajustables y fáciles de colocar</li>
+      </ul>
+
+      <p><strong>Material:</strong></p>
+      <ul>
+        <li>Tela resistente y suave al tacto</li>
+        <li>Relleno de espuma hipoalergénica</li>
+      </ul>
+
+      <h3>3. Chalecos para el Frío o Calor</h3>
+      <p>Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada, manteniéndola abrigada y cómoda.</p>
+
+      <div class="product-images" align="center">
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/2b9b7bc723b83b54deca21ed994d285883693833/Gato1.jpg" alt="Chaleco Gato 1" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/44a9d4ee1a2eb7626563b9f5ad1d5b2264151f04/Gato%20calor1.jpg" alt="Chaleco Gato Calor" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/ecf04986ab5820828b2bca790d4e94d810a7fa9b/Perro%20chaleco%201.jpg" alt="Chaleco Perro 1" />
+        <img src="https://raw.githubusercontent.com/Marybella39/dejando-huellas-mascotas/93268a10b64bd6dd71ef8452b3f59d06f0bb18c6/perro%20chaleco%202.jpg" alt="Chaleco Perro 2" />
+      </div>
+
+      <p><strong>Beneficios:</strong></p>
+      <ul>
+        <li>Protección frente a temperaturas extremas</li>
+        <li>Materiales frescos para el calor y cálidos para el frío</li>
+        <li>Ajustable y cómodo para tu mascota</li>
+      </ul>
+
+      <p><strong>Material:</strong></p>
+      <ul>
+        <li>Tejidos transpirables y suaves</li>
+        <li>Alta calidad de confección para máxima durabilidad</li>
+      </ul>
+
+      <h2>Contáctanos</h2>
+      <p>Para más información, no dudes en escribirnos. Estaremos encantados de ayudarte con cualquier duda.</p>
+
+      <div class="social-links" align="center">
+        <a href="https://www.instagram.com/dejando_huellas_/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" height="40" /></a>
+      </div>
+
+      <p align="center"><a href="mailto:dejandohuellasm@gmail.com" class="btn">Envíanos un mensaje</a></p>
+    </div>
   </div>
-
-  <p><strong>Beneficios:</strong></p>
-  <ul>
-    <li>Diseños adaptados a la temporada</li>
-    <li>Aislante térmico sin limitar el movimiento</li>
-    <li>Fácil de poner y quitar con cierres seguros</li>
-  </ul>
-
-  <p><strong>Material:</strong></p>
-  <ul>
-    <li>Tela impermeable y forro polar para invierno</li>
-    <li>Tejidos frescos y ligeros para otoño/primavera</li>
-  </ul>
-
-  <h2>¡Haz tu pedido ahora!</h2>
-  <p>Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. Contáctanos para realizar tu pedido o resolver cualquier duda.</p>
-
-  <p align="center">
-    <a href="https://tu-enlace-de-compra.com" target="_blank" style="text-decoration:none;">
-      <button style="background-color:#ce6aa9; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
-        Comprar Ahora
-      </button>
-    </a>
-  </p>
-
-  <hr/>
-
-  <h2>Síguenos en Redes Sociales</h2>
-  <p>¡Únete a nuestra comunidad y mantente al tanto de novedades, ofertas y consejos para tu mascota!</p>
-
-  <p>
-    <a href="https://www.facebook.com/share/1B7fLw4Evk/">Facebook</a> | 
-    <a href="https://www.instagram.com/dejandohuellas08?igsh=MWQwcGN3ZWRuYXhhYw==">Instagram</a> | 
-    <a href="https://twitter.com/tu_enlace">Twitter</a>
-  </p>
-</div>
-
-
 </body>
 </html>
