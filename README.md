@@ -7,7 +7,7 @@ En Dejando Huellas, nos especializamos en ofrecer accesorios de alta calidad par
 
 
 
-<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/8d8cf4764a5ddd00ad23a1071712d7bf92e2f6cb/Perropa%C3%B1oleta.jpg " width="500" height="300"/>
+<img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/cbad9c86e70cdbee74d7b137be1a5d378a672e7b/Foto%20inicial%20de%20tienda.png"/>
 
 ## Nuestro Compromiso
 
