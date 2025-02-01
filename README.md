@@ -11,7 +11,6 @@
 
 
 
-
 <div style="text-align: justify; background-color: #d0e8ff; padding: 20px; border-radius: 10px;">
 
 <h1 style="color: #ce6aa9; font-family: 'Poppins', sans-serif; font-size: 48px; text-transform: uppercase; font-weight: bold; text-align: center;">
@@ -114,6 +113,7 @@ Nuestros chalecos están diseñados para proteger a tu mascota en cada temporada
 
 
 
+
 **Beneficios:**
 - Diseños adaptados a la temporada
 - Aislante térmico sin limitar el movimiento
@@ -129,7 +129,7 @@ Dale a tu mascota el mejor cuidado y estilo con nuestros productos exclusivos. C
 
 <p align="center">
   <a href="https://tu-enlace-de-compra.com" target="_blank" style="text-decoration:none;">
-    <button style="background-color:#ff6600; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
+    <button style="background-color:#ce6aa9; color:white; padding:10px 20px; font-size:16px; border:none; border-radius:5px; cursor:pointer;">
       Comprar Ahora
     </button>
   </a>
