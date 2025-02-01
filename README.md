@@ -79,11 +79,11 @@ Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estil
 
 Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.
 
-
-
 <p align="center">
-  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png"/>
+  <img src="https://github.com/Marybella39/dejando-huellas-mascotas/blob/a7967be27d5cd3d01517c7e635ed36e65002e936/Dona2.png" width="400"/>
 </p>
+
+
 
 **Beneficios:**
 - Evitan que tu mascota se lama las heridas sin restringir su visión
