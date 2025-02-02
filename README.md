@@ -78,7 +78,7 @@ Las pañuletas de Dejando Huellas están diseñadas para darle un toque de estil
 - Algodón 100% hipoalergénico
 - Costuras reforzadas para mayor durabilidad
 
-### 2. Donas Postoperatorias
+### 2. Donas Post- Operatorio
 
 Una excelente alternativa al collar isabelino tradicional, nuestras donas postoperatorias garantizan la comodidad de tu mascota durante su recuperación.
 
