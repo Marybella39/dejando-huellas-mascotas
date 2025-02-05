@@ -233,10 +233,33 @@
       <h2>Suscríbete a Nuestro Newsletter</h2>
       <p>Recibe información exclusiva, ofertas especiales y consejos para el cuidado de tu mascota directamente en tu correo electrónico.</p>
       <p>Ingresa tu email y sé parte de nuestra comunidad:</p>
-      <input type="email" placeholder="Ingresa tu correo" style="padding: 10px; margin-right: 10px; width: 250px;" />
-      <button class="btn">Suscribirse</button>
-      <p>También te invitamos a conocer nuestro <a href="#" target="_blank"><strong>Blog con tips de cuidado para mascotas</strong></a> donde compartimos información útil y recomendaciones para el bienestar de tu mejor amigo.</p>
-    </div>
+      
+    <html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suscripción</title>
+</head>
+<body>
+    <input type="email" id="emailInput" placeholder="Ingresa tu correo" style="padding: 10px; margin-right: 10px; width: 250px;" />
+    <button class="btn" onclick="enviarCorreo()">Suscribirse</button>
+
+    <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
+    <script src="https://files.bpcontent.cloud/2025/02/01/02/20250201020624-QNUMYJ9D.js"></script>
+
+    <script>
+        function enviarCorreo() {
+            var email = document.getElementById('emailInput').value;
+            if (email) {
+                window.botpressWebChat.sendEvent({
+                    type: 'proactive-trigger',
+                    payload: { text: 'Suscripción con email: ' + email }
+                });
+            } else {
+                alert('Por favor, ingresa un correo válido.');
+            }
+        }
+    </script>
 
     <footer style="background-color: #ce6aa9; color: white; text-align: center; padding: 20px;">
       <p>&copy; 2025 Dejando Huellas Mascotas. Todos los derechos reservados.</p>
