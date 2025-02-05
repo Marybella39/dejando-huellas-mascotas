@@ -234,27 +234,22 @@
       <p>Recibe información exclusiva, ofertas especiales y consejos para el cuidado de tu mascota directamente en tu correo electrónico.</p>
       <p>Ingresa tu email y sé parte de nuestra comunidad:</p>
       
-    <html lang="es">
+ <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Suscripción</title>
 </head>
 <body>
+    <h2>¡Suscríbete para más actualizaciones!</h2>
     <input type="email" id="emailInput" placeholder="Ingresa tu correo" style="padding: 10px; margin-right: 10px; width: 250px;" />
-    <button class="btn" onclick="enviarCorreo()">Suscribirse</button>
-
-    <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-    <script src="https://files.bpcontent.cloud/2025/02/01/02/20250201020624-QNUMYJ9D.js"></script>
+    <button class="btn" onclick="redirigirInstagram()">Suscribirse</button>
 
     <script>
-        function enviarCorreo() {
+        function redirigirInstagram() {
             var email = document.getElementById('emailInput').value;
             if (email) {
-                window.botpressWebChat.sendEvent({
-                    type: 'proactive-trigger',
-                    payload: { text: 'Suscripción con email: ' + email }
-                });
+                window.location.href = "https://www.instagram.com/dejandohuellas08?igsh=MWQwcGN3ZWRuYXhhYw==";
             } else {
                 alert('Por favor, ingresa un correo válido.');
             }
